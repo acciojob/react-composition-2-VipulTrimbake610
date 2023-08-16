@@ -1,0 +1,17 @@
+
+button{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.model-overlay{
+    width: 300px;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
